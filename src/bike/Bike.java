@@ -1,4 +1,4 @@
-package tddClass.bike;
+package bike;
 
 public class Bike {
     private boolean isOn;

@@ -1,4 +1,4 @@
-package tddClass.bike;
+package bike;
 
 
 import org.junit.jupiter.api.BeforeEach;
